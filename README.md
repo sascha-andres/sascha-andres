@@ -17,10 +17,10 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/livingit_de" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter.svg"></a>
-    <a href="https://www.linkedin.com/in/sascha-andres-b7b91935/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin.svg"></a>
-    <a href="https://www.xing.com/profile/Sascha_Andres/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/xing.svg"></a>
-    <!-- <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail.svg"></a> -->
-    <a href="https://livingit.de" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external.svg"></a>
+    <a href="https://twitter.com/livingit_de" alt="Twitter"><img src="https://github.com/sascha-andres/sascha-andres/raw/master/assets/twitter.svg"></a>
+    <a href="https://www.linkedin.com/in/sascha-andres-b7b91935/" alt="Linkedin"><img src="https://github.com/sascha-andres/sascha-andres/raw/master/assets/linkedin.svg"></a>
+    <a href="https://www.xing.com/profile/Sascha_Andres/" alt="Linkedin"><img src="https://github.com/sascha-andres/sascha-andres/raw/master/assets/xing.svg"></a>
+    <a href="mailto:github@livingit.de" alt="Contact me"><img src="https://github.com/sascha-andres/sascha-andres/raw/master/assets/mail.svg"></a>
+    <a href="https://livingit.de" alt="My site"><img src="https://github.com/sascha-andres/sascha-andres/raw/master/assets/external.svg"></a>
   </p>
 </p>
