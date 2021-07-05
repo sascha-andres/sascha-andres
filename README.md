@@ -2,7 +2,7 @@ I like experimenting with new technologies, building small projects mostly makin
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a full principal architect over at **[SYZYGY Deutschland GmbH](https://syzygy.de)** using [.NET core](https://dotnet.microsoft.com/) and [Goland](https://golang.org/)
+- 👩🏻‍💻 Working as a software engineer over at **[Infront Quant AG](https://www.infrontquant.com/)**
 - ☀️ Maintaining some open source projects to make life of me and other developers easier
 - 🌱 Gardening and construction at home to make our family's life more convenient and nice
 - 👯 Co-Organizer of Gophers meetup in Frankfurt, Germany
