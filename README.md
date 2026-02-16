@@ -7,10 +7,6 @@ Here's a list of things I currently keep myself busy with:
 - 🌱 Gardening and construction at home to make our family's life more convenient and nice
 - 👯 Co-Organizer of Gophers meetup in Frankfurt, Germany
 
-![Sascha's github stats](https://github-readme-stats.vercel.app/api?username=sascha-andres&theme=nord&show_icons=true)
-
-![My top most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sascha-andres&size_weight=0.5&count_weight=0.5&theme=nord)
-
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
